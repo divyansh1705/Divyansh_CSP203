@@ -6,4 +6,6 @@ int main(){
     int n;
     cin>>n;
     cout<<"The value entered is "<<n<<endl;
+
+    cout<<"Hello World"<<endl;
 }
