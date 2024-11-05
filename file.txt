@@ -1,3 +1,5 @@
 This is the change from the second local repository
 
 This the change from the first repository.
+
+This is the change from the branch edit_sample_file
